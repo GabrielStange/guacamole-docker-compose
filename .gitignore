@@ -1,4 +1,5 @@
 .gitignore
+.vs
 data/
 nginx/ssl/
 init/initdb.sql
